@@ -1,0 +1,26 @@
+# Scala
+target/
+lib_managed/
+.project
+.classpath
+.cache-main
+.cache-test
+.worksheet
+.DS_Store
+.bsp
+
+# SBT
+project/project/
+project/target/
+target/
+lib_managed/
+.idea
+*.iml
+*.iws
+*.ipr
+.cache-main
+.cache-test
+logs/
+pids/
+dist/
+run/
